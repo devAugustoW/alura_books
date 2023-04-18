@@ -6,21 +6,23 @@
 
 Projeto do curso de HTML e CSS: responsividade com mobile-first, ministrado pela Alura. Projeto desenvolvido seguindo as aulas e o modelo proposto pelo figma.
 
-O web site, construído utilizando técnicas de responsividade para 3 tamanhos de tela com adição e subtração de elementos em cada dispositivo e conta também com dois carrosseis de imagens feitos com o auxilio da biblioteca Swiper.
+Web site construído utilizando técnicas de responsividade para 3 tamanhos de tela com adição e subtração de elementos em cada dispositivo, conta também com dois carrosseis de imagens feitos com o auxilio da biblioteca SwiperJS, menu de Hamburguer estilizado com pseudo-classes, entre outras...
+
+O projeto pode ser visuzalizado através do link <a href="https://devaugustow.github.io/alura_books/index.html" target="_blanck">Alura Books</a>
 
 ## 💻 Recursos utilizados no projeto
+
+✅ Menu hambúrguer interativo;<br>
+✅ Position relative e absolute;<br>
+✅ FlexBox, flex-containers e flex-items;<br>
 
 ✅ Figma;<br>
 ✅ Variáveis CSS;<br>
 ✅ Aplicação do reset.css;<br>
 
-✅ @import;<br>
-✅ Biblioteca Swiper<br>
+✅ import;<br>
+✅ Biblioteca SwiperJS<br>
 ✅ Google fonts;<br>
-
-✅ Menu hambúrguer interativo;<br>
-✅ Position relative e absolute;<br>
-✅ FlexBox, flex-containers e flex-items;<br>
 
 ✅ Sections;<br>
 ✅ Edição de input e seu placeholder;<br>
@@ -30,4 +32,12 @@ O web site, construído utilizando técnicas de responsividade para 3 tamanhos d
 ✅ Aplicação de elementos na tela de acordo com o tamanho do dispositivo;<br>
 ✅ Aplicação de diferente estilos com media queries diferentes;<br>
 ✅ Pseudo-classes.<br>
- 
+
+## Tecnologias
+* HTML5
+* CSS3
+* Figma
+* Github
+##
+<br><br><br>
+Feito por <a href="https://www.linkedin.com/in/augusto-dantas/" target="_blanck">Augusto Dantas 😎</a>

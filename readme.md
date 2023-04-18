@@ -8,7 +8,7 @@ Projeto do curso de HTML e CSS: responsividade com mobile-first, ministrado pela
 
 Web site construído utilizando técnicas de responsividade para 3 tamanhos de tela com adição e subtração de elementos em cada dispositivo, conta também com dois carrosseis de imagens feitos com o auxilio da biblioteca SwiperJS, menu de Hamburguer estilizado com pseudo-classes, entre outras...
 
-O projeto pode ser visuzalizado através do link <a href="https://devaugustow.github.io/alura_books/index.html" target="_blanck">Alura Books</a>
+O projeto pode ser visuzalizado através do link <a href="https://devaugustow.github.io/alura_books/index.html" target="_blanck">Alura Books</a>.
 
 ## 💻 Recursos utilizados no projeto
 
@@ -26,12 +26,13 @@ O projeto pode ser visuzalizado através do link <a href="https://devaugustow.gi
 
 ✅ Sections;<br>
 ✅ Edição de input e seu placeholder;<br>
-✅ Media queries;<br>
+✅ Pseudo-classes.<br>
 
+✅ Media queries;<br>
 ✅ Diferentes estilos para diferentes tamanhos de tela;<br>
 ✅ Aplicação de elementos na tela de acordo com o tamanho do dispositivo;<br>
 ✅ Aplicação de diferente estilos com media queries diferentes;<br>
-✅ Pseudo-classes.<br>
+
 
 ## Tecnologias
 * HTML5
